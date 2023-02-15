@@ -1,0 +1,10 @@
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\bin\Debug\SelectQueryFromDataBase.exe.config
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\bin\Debug\SelectQueryFromDataBase.exe
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\bin\Debug\SelectQueryFromDataBase.pdb
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\obj\Debug\SelectQueryFromDataBase.csproj.AssemblyReference.cache
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\obj\Debug\SelectQueryFromDataBase.csproj.SuggestedBindingRedirects.cache
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\obj\Debug\SelectQueryFromDataBase.csproj.CoreCompileInputs.cache
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\obj\Debug\SelectQueryFromDataBase.exe
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\obj\Debug\SelectQueryFromDataBase.pdb
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\bin\Debug\Products.mdf
+D:\programs\visualStudio\Projects\SelectQueryFromDataBase\SelectQueryFromDataBase\bin\Debug\Products_log.ldf
